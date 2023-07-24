@@ -1,2 +1,12 @@
+.a{
+width: 200px;
+background-color: purple;
+border-left: 5px;
+border-left-color:green;
+padding: 10px;
+font-size: 20px;
 
-/* Your CSS Code here. */
+}
+.b{
+    color: white;
+}
